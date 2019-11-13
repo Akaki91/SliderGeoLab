@@ -92,7 +92,3 @@ document.querySelectorAll('.nav').forEach(item => {
     })
 
 })
-
-
-
-
